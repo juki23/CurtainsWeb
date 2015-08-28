@@ -1,2 +1,0 @@
-# CurtainsWeb
-Curtains
